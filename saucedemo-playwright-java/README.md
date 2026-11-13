@@ -1,6 +1,5 @@
 # SauceDemo Playwright Java Automation Framework
 
-Java conversion of the public `Namish46/Playwright-Learning-Final` SauceDemo automation project. It retains the main scenarios from its JavaScript suite and uses Playwright for Java, Maven, TestNG, and Page Object Model.
 
 ## Requirements
 - JDK 17 or later
