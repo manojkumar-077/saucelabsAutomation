@@ -1,0 +1,4 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Java Automation" parallel="false" verbose="1">
+  <test name="SauceDemo Tests"><packages><package name="com.assignment.tests"/></packages></test>
+</suite>

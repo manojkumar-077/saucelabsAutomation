@@ -1,0 +1,8 @@
+target/
+test-output/
+playwright-report/
+test-results/
+*.log
+.idea/
+.vscode/
+.DS_Store
